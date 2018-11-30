@@ -4,14 +4,12 @@
 # Site settings
 title: R2M Academy
 description: |
-  Another fine responsive
-  site template freebie
-  crafted by [HTML5 UP](http://html5up.net)
+  Varje kvartal samlas hela personalen och lär oss av varandra, av andra och gemensamt under en heldag.
 owner: R2M AB # or company name
 first_published: 2018 # if migrating another site, the year of your first publish
 email: anders.freden@r2m.se
 baseurl: "/r2m-academy" # the subpath of your site, e.g. /blog
-url: "https://r2m.github.io" # the base hostname & protocol for your site
+url: "https://r2m.github.io/r2m-academy" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
   github: https://github.com/<username>
