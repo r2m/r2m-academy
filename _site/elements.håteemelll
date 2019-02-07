@@ -14,7 +14,7 @@
   <meta name="description" content="Varje kvartal samlas hela personalen och lär oss av varandra, av andra och gemensamt under en heldag.
 ">
   <!--[if lte IE 8]><script src="/r2m-academy/js/ie/html5shiv.js"></script><![endif]-->
-  <link rel="canonical" href="http://localhost:4000/r2m-academy/elements.html">
+  <link rel="canonical" href="http://localhost:4000/r2m-academy/elements.ha%CC%8Ateemelll">
   <link rel="stylesheet" href="/r2m-academy/css/main.css" />
 
   <!--[if lte IE 8]><link rel="stylesheet" href="/r2m-academy/css/ie8.css" /><![endif]-->
@@ -44,7 +44,7 @@
             
             
             
-            <li><a href="/r2m-academy/elements.html">Elements</a></li>
+            <li><a href="/r2m-academy/elements.ha%CC%8Ateemelll">Elements</a></li>
             
             
             
@@ -61,10 +61,6 @@
             
             
             
-            
-            
-            
-            <li><a href="/r2m-academy/acdmyFeb.html">r2m-academy Feb</a></li>
             
             
             <!-- <li><a href="#">Sign Up</a></li> -->
