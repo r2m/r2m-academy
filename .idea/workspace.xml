@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="49582b12-b0a8-42a2-beba-ee04bf533909" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/Q2-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/Q2-2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/Q2-2019.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/Q2-2019.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Q2-2019.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="184" selection-start-line="14" selection-start-column="184" selection-end-line="14" selection-end-column="184" />
+            <state relative-caret-position="-139">
+              <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -188,12 +190,12 @@
       <option name="presentableId" value="Default" />
       <updated>1557305044055</updated>
       <workItem from="1557305047154" duration="8943000" />
-      <workItem from="1559041959349" duration="2136000" />
+      <workItem from="1559041959349" duration="2447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11079000" />
+    <option name="totallyTimeSpent" value="11390000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2280" y="-485" width="1357" height="1330" extended-state="0" />
@@ -297,8 +299,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Q2-2019.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="184" selection-start-line="14" selection-start-column="184" selection-end-line="14" selection-end-column="184" />
+        <state relative-caret-position="-139">
+          <caret line="67" column="35" selection-start-line="67" selection-start-column="35" selection-end-line="67" selection-end-column="35" />
         </state>
       </provider>
     </entry>
