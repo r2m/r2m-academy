@@ -8,15 +8,21 @@
         <div id="menu">
           <ul>
             <li><a href="index.html">Home</a></li>
-            {% for my_page in site.pages %}
+            <li><b><a href="Q3-2019.html">Windsor</a></b><br/>
+                <a href="WindsorAgenda.html#torsdag">Agenda torsdag</a>
+                <a href="WindsorAgenda.html#fredag">Agenda fredag</a>
+                <a href="WindsorAgenda.html#lordag">Agenda lördag</a>
+                <a href="WindsorAgenda.html#sondag">Agenda söndag</a>
+            </li>
+            <li><b><a href="Q2-2019.html">Sommarfest 2019</a></b></li>
+            <li><b><a href="Q2-2019.html">Yasuragi</a></b></li>
+          </ul>
+<!--            {% for my_page in site.pages %}
             {% if my_page.title %}
             <li><a href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
             {% endif %}
             {% endfor %}
-            <!-- <li><a href="#">Sign Up</a></li> -->
-            <!-- <li><a href="#">Log In</a></li> -->
-            <!-- <li><a href="{{ "/feed.xml" | prepend: site.baseurl }}"
-                   class="icon fa-feed"> RSS Feed</a></li> -->
+-->
           </ul>
         </div>
       </li>

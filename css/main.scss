@@ -1685,6 +1685,7 @@ $baseurl: '{{ site.baseurl }}/images';
 			h2 {
 				font-size: 1.75em;
 				margin: 0 0 (_size(element-margin) * 0.25) 0;
+				text-shadow: 2px 2px 5px #000000;
 			}
 
 			p {
@@ -1692,6 +1693,7 @@ $baseurl: '{{ site.baseurl }}/images';
 				letter-spacing: _size(letter-spacing-alt);
 				text-transform: uppercase;
 				top: 0;
+				text-shadow: 2px 2px 7px #000000, 1px 1px 0px #000000;
 
 				a {
 					color: inherit;
